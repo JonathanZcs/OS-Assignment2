@@ -1,8 +1,8 @@
 OS Coding Assignment 2
 
-Jonathan Zajac
-Operating Systems
-11/20/22
+Jonathan Zajac  
+Kent State Operating Systems  
+11/20/22  
 
 In this assignment, we are assigned to implement the bankers algorithm. I implemented this by using two dimensional arrays to store a processees max, allocation, need and available. This program will tell you whether the system is or is not in a safe state and then give you the safe sequence. 
 
